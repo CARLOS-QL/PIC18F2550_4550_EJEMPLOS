@@ -2,7 +2,7 @@
 
 Estos ejemplos son compatibles con *PIC18F2550* y *PIC18F4550*.
 
-Se utilizó las siguientes herramientas:
+Herraminetas utilizadas:
 
 1. MPLABX IDE versión 6.0. 
 2. Compilador XC8 versión 2.36. 
